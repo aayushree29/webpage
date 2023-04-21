@@ -1,5 +1,5 @@
 body {
-    background-color: #EDCBB1;
+    background-color: #DAD7CD;
 }
 h1{
     color: #5D576B;
@@ -19,16 +19,19 @@ h2{
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   grid-gap: 10px;
-  background-color: #929982;
+  background-color: #344E41;;
 }
 
 .grid-item {
-  background-color: green;
+  background-color: #A3B18A;
   padding: 20px;
   font-size: 30px;
   text-align: center;
 }
-  
+dl{
+  font-family: 'Courier New', Courier, monospace;
+   
+}
     
   
  
@@ -52,5 +55,5 @@ a:hover {
 
 
 p{
-  font-family: cursive;
+  font-family:'Courier New', Courier, monospace;
 }
