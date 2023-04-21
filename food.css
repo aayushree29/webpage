@@ -1,17 +1,19 @@
 body {
-    background-color: rgb(242, 224, 230);
+    background-color: hsl(35, 24%, 80%);
 }
 h1{
     color: rgb(54, 151, 237);
     text-align: center;
     border-style: solid;
   border-color: #92a8d1;
+
 }
 h2{
     color: cadetblue;
     text-align: center;
     border-style: solid;
   border-color: #92a8d1;
+
 }
 .grid-container {
   display: grid;
@@ -46,4 +48,9 @@ a:visited {
 a:hover {
 	color: rgb(25, 53, 32);
 	font-weight: bold;
+}
+
+
+p{
+  font-family: cursive;
 }
